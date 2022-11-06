@@ -1,7 +1,7 @@
 ### Code used for data acquisition
 ##### Link to get your own API KEY :  <http://code.google.com/apis/console>
 ##### Link to get your own cx :  <http://programmablesearchengine.google.com/controlpanel/all>
-You will need to create your search engine using above link, make sure to enable image search, **IT IF OFF BY DEFAULT**, then copy the search engine ID and use it in cx section of the res().execute()
+You will need to create your search engine using above link, make sure to enable image search, **IT IS OFF BY DEFAULT**, then copy the search engine ID and use it in cx section of the res().execute()
 ```
 from googleapiclient.discovery import build
 import requests
