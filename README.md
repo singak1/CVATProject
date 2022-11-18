@@ -1,5 +1,7 @@
 # CVATProject - Milestone 1.
-
+___
+##### Project Team 8 -> Contributor: AKASHDEEP SINGH - working solo
+___
 ## Windows 10
 
 * Install WSL2 (Windows subsystem for Linux) refer to this [official guide.](https://docs.microsoft.com/windows/wsl/install-win10) WSL2 requires Windows 10, version 2004 or higher. Note: You may not have to install a Linux distribution unless needed.
